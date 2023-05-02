@@ -40,3 +40,7 @@ All subclasses are interactable in the Main class, where the user can choose to 
 ![image](https://i.imgur.com/MED2jD6.png)
 ![image2](https://i.imgur.com/1tBxgJJ.png)
 ![image3](https://i.imgur.com/3Sy2BTs.png)
+
+## UML Diagram
+
+![uml](https://i.imgur.com/eRndGh7.png)

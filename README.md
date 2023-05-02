@@ -1,6 +1,8 @@
 # Dungeons and Dragons Model
 
-This program simulates a fight between different types of monsters, and it is built on the object-oriented programming principles of inheritance and polymorphism. The program contains a Main class and various subclasses of the Monster class. The key concepts learned in this program are:
+This program simulates a fight between different types of monsters, and it is built on the object-oriented programming principles of inheritance and polymorphism. The program contains a Main class and various subclasses of the Monster class. 
+
+## The key concepts learned in this program are:
 
     - Inheritance: The subclasses of the Monster class are derived from the Monster class and inherit all its properties.
     - Polymorphism: The Monster class is a general class that can be instantiated to create different types of monsters.
@@ -35,6 +37,6 @@ All subclasses are interactable in the Main class, where the user can choose to 
 
 ## Screenshots
 
-!(image)[https://i.imgur.com/MED2jD6.png]
-!(image2)[https://i.imgur.com/1tBxgJJ.png]
-!(image3)[https://i.imgur.com/3Sy2BTs.png]
+![image](https://i.imgur.com/MED2jD6.png)
+![image2](https://i.imgur.com/1tBxgJJ.png)
+![image3](https://i.imgur.com/3Sy2BTs.png)
